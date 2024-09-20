@@ -1,6 +1,7 @@
 <p align="center">
-  <img  src="https://www.deviantart.com/archipics/art/Boyfriend-s-Room-884665807" width="400px">
+  <img src="https://www.deviantart.com/archipics/art/Boyfriend-s-Room-884665807" width="400px">
 </p>
+
 
 <h1 align="center"> <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50px" height="50px" style="max-width:100%;">  I'm <a href="#"> Raunak </a> <img src="https://professionallogodesigner.in/wp-content/uploads/2020/01/1-1.gif" width="100px" height="70px"></h1>
 
@@ -48,7 +49,8 @@
 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 
-<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=1700&color=822382&background=000000&multiline=true&width=650&height=220&lines=function+repeat()+%7B+eat();+code();+sleep();+repeat();+%7D"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=1500&color=822382&background=000000&multiline=true&width=650&height=220&lines=function+repeat()+%7B 
+  +eat();+code();+sleep();+repeat();+%7D"/>
 
 <Br/>
 
