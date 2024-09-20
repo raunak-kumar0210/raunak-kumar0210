@@ -4,11 +4,7 @@
 <img align="right" alt="coding" width="400px" margin-bottom="16px" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raunak-kumar0210&label=Profile%20views&color=0e75b6&style=flat" alt="raunak-kumar0210" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raunak-kumar0210" alt="raunak-kumar0210" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/raunak_000" target="blank"><img src="https://img.shields.io/twitter/follow/raunak_000?logo=twitter&style=for-the-badge" alt="raunak_000" /></a> </p>
 
 - 🔭 I’m currently working on **AirBnB clone**
 
