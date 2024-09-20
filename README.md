@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGVtcGdpNy01MjBmOGQ1Zi02M2Q0LTQ0NTMtODgyMi1kYmMxNDlhZTI3ZjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TeuN0B5RgPUykYQkZXa8ArTYZ7GlxIpIVJUfQQMWCgM" width="400px">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGVtcGdpNy01MjBmOGQ1Zi02M2Q0LTQ0NTMtODgyMi1kYmMxNDlhZTI3ZjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TeuN0B5RgPUykYQkZXa8ArTYZ7GlxIpIVJUfQQMWCgM" width="800px">
 </p>
 
+<br>
 
 <h1 align="center"> <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50px" height="50px" style="max-width:100%;">  I'm <a href="#"> Raunak </a> <img src="https://professionallogodesigner.in/wp-content/uploads/2020/01/1-1.gif" width="100px" height="70px"></h1>
 
@@ -18,6 +19,8 @@
 - 📫 How to reach me **raunakjsr7016@gmail.com**
 
 - ⚡ Fun fact **I do code whenever I'm free.**
+
+<br>
 
 ## 🚀 Languages and Tools:
 
@@ -43,7 +46,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-
+<br>
 
 ## 🔥 My Motto
 
