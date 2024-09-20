@@ -1,4 +1,5 @@
-![MasterHead GIF] (https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Masterhead GIF]([https://raw.githubusercontent.com/yourusername/yourrepository/main/yourgif.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
+
 <h1 align="center">Hi 👋, I'm Raunak Kumar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="coding" width="400px" margin-bottom="16px" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
