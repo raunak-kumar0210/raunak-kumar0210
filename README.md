@@ -59,6 +59,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raunak-kumar0210&show_icons=true&locale=en&layout=compact" alt="raunak-kumar0210" />
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raunak-kumar0210&show_icons=true&locale=en" alt="raunak-kumar0210" /></p>
+
+
+<br/>
 
 ## Connect with me:
 
@@ -71,11 +75,8 @@
 
 </p>
  
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=TridibD004">
-</a>
-<a href="https://github.com/TridibD004?tab=followers"><img src="https://img.shields.io/github/followers/TridibD004?label=Followers&style=social" alt="GitHub Badge"></a>
+<br/>
+
 <p align="center">
   <img width="250" height="200" src="https://media.giphy.com/media/lb5njh6zDXFauXpBtC/giphy.gif">
 </p>
