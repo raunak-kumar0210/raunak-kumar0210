@@ -43,8 +43,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-0A05BA?style=for-the-badge&labelColor=black&logo=react&logoColor=0A05BA)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-AB0718?style=for-the-badge&labelColor=black&logo=javascript&logoColor=AB0718)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+
 
 ## 🔥 My Motto
 
@@ -56,18 +55,9 @@
 
 ## 📊 My Github Stats
 
-<p align="center">
-    <a href="https://github.com/TridibD004/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tridib Dalui's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TridibD004&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raunak-kumar0210&show_icons=true&locale=en&layout=compact" alt="raunak-kumar0210" />
 </p>
-
-  <br/>
-    <a href="https://github.com/TridibD004/github-readme-stats"><img alt="Tridib Dalui's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TridibD004&show_icons=true&count_private=true&theme=jolly&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/TridibD004/github-readme-stats"><img alt="Tridib Dalui's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TridibD004&langs_count=8&count_private=true&layout=compact&theme=github-green-purple&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 <br/>
 <br/>
