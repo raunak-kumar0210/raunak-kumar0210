@@ -1,32 +1,134 @@
-![Masterhead GIF](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
+<p align="center">
+  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="400px">
+</p>
 
-<h1 align="center">Hi 👋, I'm Raunak Kumar</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="coding" width="400px" margin-bottom="16px" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<h1 align="center"> <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50px" height="50px" style="max-width:100%;">  I'm <a href="#"> Tridib </a> <img src="https://professionallogodesigner.in/wp-content/uploads/2020/01/1-1.gif" width="100px" height="70px"></h1>
+<h3 align="center">I'm a student and learner from India.</h3>
 
+<br>
 
+<img align='right' src="https://i.pinimg.com/originals/f2/74/6a/f2746ae177a5f4bcb59cf08c8d164b13.gif" width="300">
 
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **AirBnB clone**
+- 🔭 I’m **Raunak Kumar**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS** & **Data Structures and Algorithms**
 
-- 💬 Ask me about **HTML , CSS , JavaScript**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **raunakjsr7016@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/raunak_000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raunak_000" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raunak-kumar-a6a0a3233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raunak-kumar-a6a0a3233" height="30" width="40" /></a>
-<a href="https://instagram.com/raunak0210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raunak0210" height="30" width="40" /></a>
+- ⚡ Fun fact **I do code whenever I'm free.**
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://www.cprogramming.com/"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a> 
+    <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> 
+    <a href="https://web.dev/learn/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
+    <a href="https://www.javascript.com/"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> </a> 
+    <a style="padding-right:8px;" href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/> </a>
+    <a style="padding-right:8px;" href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> <img src="https://img.icons8.com/nolan/64/flask.png"/> </a>
+    <a href="https://www.cloudskillsboost.google/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- [![React Badge](https://img.shields.io/badge/-React-0A05BA?style=for-the-badge&labelColor=black&logo=react&logoColor=0A05BA)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-AB0718?style=for-the-badge&labelColor=black&logo=javascript&logoColor=AB0718)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raunak-kumar0210&show_icons=true&locale=en&layout=compact" alt="raunak-kumar0210" /></p>
+## 🔥 My Motto
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raunak-kumar0210&show_icons=true&locale=en" alt="raunak-kumar0210" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raunak-kumar0210&" alt="raunak-kumar0210" /></p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=822382&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(TridibD004);....+s.explore();....+s.learn();....+s.contribute()"/>
+
+
+
+
+## 📊 My Github Stats
+
+<p align="center">
+    <a href="https://github.com/TridibD004/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tridib Dalui's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TridibD004&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+  <br/>
+    <a href="https://github.com/TridibD004/github-readme-stats"><img alt="Tridib Dalui's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TridibD004&show_icons=true&count_private=true&theme=jolly&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/TridibD004/github-readme-stats"><img alt="Tridib Dalui's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TridibD004&langs_count=8&count_private=true&layout=compact&theme=github-green-purple&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Tridib Dalui's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TridibD004&bg_color=0D1117&color=3F05BA&line=BA0554&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning         ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
+🌆 Daytime         ███████░░░░░░░░░░░░░░░░░░   29.46% 
+🌃 Evening         ████████░░░░░░░░░░░░░░░░░   33.04% 
+🌙 Night           ██████░░░░░░░░░░░░░░░░░░░   24.11%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday            █████░░░░░░░░░░░░░░░░░░░░   20.54% 
+Tuesday           █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
+Wednesday         ██░░░░░░░░░░░░░░░░░░░░░░░   8.04% 
+Thursday          ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
+Friday            ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+Saturday          ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+Sunday            ████████░░░░░░░░░░░░░░░░░   34.82%
+
+```
+
+
+## Connect with me:
+
+### Social :- 
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/tridib-dalui-236039213//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://mobile.twitter.com/tridibdalui04"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/invites/contact/?i=pkygdy0zvzn2&utm_content=3jqzhq4"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/tridib.dalui.10"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+
+</p>
+
+### Coding Platfroms :- 
+<p align="left">
+<a href = "https://www.codechef.com/users/tridib_004"><img align="center"
+                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+                        height="40" width="50" /></a>
+<a href = "https://www.hackerrank.com/tridibdalui04"><img align="center"
+                        src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg"
+                        height="40" width="50" /></a>
+<a href = "https://leetcode.com/tridibdalui04/"><img align="center"
+                        src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg"
+                        height="40" width="50" /></a>
+ <a href = "https://auth.geeksforgeeks.org/user/tridibd04/practice"><img align="center"
+                        src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/geeks-for-geeks.svg"
+                        height="40" width="50" /></a>
+ 
+</p>
+ 
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=TridibD004">
+</a>
+<a href="https://github.com/TridibD004?tab=followers"><img src="https://img.shields.io/github/followers/TridibD004?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center">
+  <img width="250" height="200" src="https://media.giphy.com/media/lb5njh6zDXFauXpBtC/giphy.gif">
+</p>
+
