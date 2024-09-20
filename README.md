@@ -74,13 +74,11 @@
 ### Social :- 
 <p align="left">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raunak-kumar0210&show_icons=true&locale=en" alt="raunak-kumar0210" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raunak-kumar0210&" alt="raunak-kumar0210" /></p>
-
+<a href = "https://www.linkedin.com/feed/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://x.com/home?lang=en-in"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
  
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
