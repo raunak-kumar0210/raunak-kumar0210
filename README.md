@@ -67,27 +67,6 @@
 <br/>
 <br/>
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning         ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
-🌆 Daytime         ███████░░░░░░░░░░░░░░░░░░   29.46% 
-🌃 Evening         ████████░░░░░░░░░░░░░░░░░   33.04% 
-🌙 Night           ██████░░░░░░░░░░░░░░░░░░░   24.11%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday            █████░░░░░░░░░░░░░░░░░░░░   20.54% 
-Tuesday           █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
-Wednesday         ██░░░░░░░░░░░░░░░░░░░░░░░   8.04% 
-Thursday          ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
-Friday            ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-Saturday          ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
-Sunday            ████████░░░░░░░░░░░░░░░░░   34.82%
-
-```
 
 
 ## Connect with me:
@@ -95,29 +74,13 @@ Sunday            ████████░░░░░░░░░░░░�
 ### Social :- 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/tridib-dalui-236039213//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://mobile.twitter.com/tridibdalui04"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/invites/contact/?i=pkygdy0zvzn2&utm_content=3jqzhq4"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/tridib.dalui.10"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raunak-kumar0210&show_icons=true&locale=en" alt="raunak-kumar0210" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raunak-kumar0210&" alt="raunak-kumar0210" /></p>
+
 
 </p>
 
-### Coding Platfroms :- 
-<p align="left">
-<a href = "https://www.codechef.com/users/tridib_004"><img align="center"
-                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-                        height="40" width="50" /></a>
-<a href = "https://www.hackerrank.com/tridibdalui04"><img align="center"
-                        src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg"
-                        height="40" width="50" /></a>
-<a href = "https://leetcode.com/tridibdalui04/"><img align="center"
-                        src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg"
-                        height="40" width="50" /></a>
- <a href = "https://auth.geeksforgeeks.org/user/tridibd04/practice"><img align="center"
-                        src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/geeks-for-geeks.svg"
-                        height="40" width="50" /></a>
- 
-</p>
  
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
