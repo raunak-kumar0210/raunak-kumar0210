@@ -59,15 +59,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raunak-kumar0210&show_icons=true&locale=en&layout=compact" alt="raunak-kumar0210" />
 </p>
 
-<br/>
-<br/>
-
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Tridib Dalui's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TridibD004&bg_color=0D1117&color=3F05BA&line=BA0554&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-
 
 ## Connect with me:
 
@@ -76,7 +67,7 @@
 
 <a href = "https://www.linkedin.com/feed/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://x.com/home?lang=en-in"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/raunak_0210/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
  
