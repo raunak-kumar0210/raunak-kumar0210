@@ -72,6 +72,8 @@
 <a href = "https://www.linkedin.com/feed/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://x.com/raunak_000"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/raunak_0210/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://leetcode.com/u/Raunak-tech/"><img src="https://iconscout.com/free-icon/leetcode-3521542"/></a>
+
 
 </p>
  
